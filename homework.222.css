@@ -1,0 +1,27 @@
+body{
+    background-color: grey;
+}
+
+.boxx {
+    width: 448px;
+    height: 532px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.box{
+    width: 331px;
+    height: 69px;
+    background-color: black;
+    border-radius: 100px;
+    color: white;
+}
+
+.box1{
+    width: 331px;
+    height: 69px;
+    background-color: white;
+    border-radius: 100px;
+    border: 5px solid color;
+    border-color:black;   
+}
